@@ -253,6 +253,7 @@
             // 
             this.labelTime.AutoSize = true;
             this.labelTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelTime.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(47)))), ((int)(((byte)(7)))), ((int)(((byte)(76)))));
             this.labelTime.Location = new System.Drawing.Point(490, 36);
             this.labelTime.Name = "labelTime";
             this.labelTime.Size = new System.Drawing.Size(71, 20);
