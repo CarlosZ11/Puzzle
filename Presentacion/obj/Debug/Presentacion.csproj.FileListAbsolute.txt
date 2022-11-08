@@ -1,0 +1,33 @@
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ESTUDIANTES\Desktop\Puzzle\Presentacion\obj\Debug\Presentacion.pdb
+F:\Puzzle\Presentacion\bin\Debug\Presentacion.exe.config
+F:\Puzzle\Presentacion\bin\Debug\Presentacion.exe
+F:\Puzzle\Presentacion\bin\Debug\Presentacion.pdb
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.Form1.resources
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.exe
+F:\Puzzle\Presentacion\obj\Debug\Presentacion.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\bin\Debug\Presentacion.exe
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\bin\Debug\Presentacion.pdb
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.Form1.resources
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.exe
+D:\Ingeniería de Sistemas\Programación III 2022\Puzzle\Presentacion\obj\Debug\Presentacion.pdb
