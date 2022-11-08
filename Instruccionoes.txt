@@ -1,0 +1,1 @@
+El contador empezará a correr apenas sea movida la primera ficha.
