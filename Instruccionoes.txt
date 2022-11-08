@@ -1,2 +1,3 @@
 El contador empezará a correr apenas sea movida la primera ficha.
 Gana cuando ordene todos los números.
+El contador se para apenas gane.
